@@ -3,7 +3,7 @@
 Projet_sécu_python
 =======
 (The file `c:\Users\kamali\Documents (local)\python_s\u00e9cu\projet\README.md` exists, but is empty)
-# Scanner réseau - Projet M1 débutant (fr)
+# Scanner réseau - Projet M1
 
 Petit scanner réseau pédagogique (ping, port scan, audit web) écrit en Python.
 
